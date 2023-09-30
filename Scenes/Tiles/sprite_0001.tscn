@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b28d70wvjpnh7"]
+
+[ext_resource type="Texture2D" uid="uid://csqog2e4l5nif" path="res://Textures/Asp/Sprite-0001.aseprite" id="1_ue6c5"]
+
+[node name="Sprite-0001" type="Sprite2D"]
+scale = Vector2(0.5, 0.5)
+texture = ExtResource("1_ue6c5")
